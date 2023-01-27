@@ -1,0 +1,34 @@
+
+#header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+body{
+    background-color: darkgoldenrod;
+}
+
+ul{
+    color: blueviolet;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ img {
+    width: 290px;
+    height: 174px;
+ }
+
+ .menu{
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+ }
+
+ .top{
+    background-color: aquamarine;
+    color: black;
+    font-weight: bolder;
+ }
